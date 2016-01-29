@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[synnoc]]></title>
         <description><![CDATA[synnoc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/synnoc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:25:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 17:30:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/synnoc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/synnoc/62c9d721-e64f-4943-bc1b-1ba4f87b1168/index.html</link>
+            <guid isPermaLink="false">62c9d721-e64f-4943-bc1b-1ba4f87b1168</guid>
+            <pubDate>Fri, 29 Jan 2016 17:29:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cba5cd8-9a13-4572-850c-ce7ef9e8953f.png">]]></description>
-            <link>undefinede56f94bf-45cf-4fdc-a0ed-a08b11039a01/index.html</link>
+            <link>https://thegrid.ai/synnoc/e56f94bf-45cf-4fdc-a0ed-a08b11039a01/index.html</link>
             <guid isPermaLink="false">e56f94bf-45cf-4fdc-a0ed-a08b11039a01</guid>
             <pubDate>Fri, 29 Jan 2016 17:25:47 GMT</pubDate>
         </item>
