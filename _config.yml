@@ -1,0 +1,28 @@
+name: synnoc
+favicon: null
+layout_spectrum: 0.7062647158745676
+typography_spectrum: 0.441253564087674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.946272952016443
+  lightness: 0.10540885501541197
+  saturation: 0.3790274194907397
+  rhythmicContrast: 0.7350697454530746
+purpose: []
